@@ -4,7 +4,7 @@
   "description": "",
   "main": "whatsupp_server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "whatsupp_server.js"
   },
   "keywords": [],
   "author": "",
