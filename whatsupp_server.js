@@ -10,7 +10,7 @@ const upload = multer({ dest: "uploads/" });
 // 🔐 MEGA credentials
 const email = process.env.MEGA_EMAIL;
 const password = process.env.MEGA_PASSWORD;
-console.log(process.env.MEGA_EMAIL);
+// console.log(process.env.MEGA_EMAIL);
 // ==============================
 // ✅ MEGA LOGIN
 // ==============================
